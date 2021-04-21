@@ -3,6 +3,19 @@
   text-align: center;
 }
 
+/* ユーザー勤怠情報テーブル */
+
+#table-attendances {
+  th {
+    vertical-align: middle;
+    text-align: center;
+  }
+  td {
+    vertical-align: middle;
+    text-align: center;
+  }
+}
+
 .label-signup {
   margin-top: 5px;
 }
@@ -37,3 +50,4 @@
   margin: 15px 0;
   width: 30%;
 }
+
